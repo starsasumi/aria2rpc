@@ -1,0 +1,19 @@
+{
+  "name": "aria2rpc",
+  "version": "1.0.0",
+  "description": "A command line client for aria2 through its RPC interface",
+  "main": "aria2rpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aria2",
+    "RPC",
+    "youtube-dl"
+  ],
+  "author": "starsasumi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
